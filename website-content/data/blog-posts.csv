@@ -1,0 +1,4 @@
+slug,title,category,pubDate,description,heroImage,heroAlt
+AI-vibe-coding-1,AI Web Design — Part 1: Start with an Idea,AI Web Generation,2025-09-25,Before diving into AI web design do your homework and plan your approach.,/blogs/hero-images/AI01.png,AI web design article cover
+RWD-Started-1,Responsive Web Design (Part 1): RWD Fundamentals and Why It Matters,Responsive Web Design,2025-07-07,A beginner-friendly introduction to RWD and the fundamentals of responsive web design.,/blogs/hero-images/RWD01.png,Responsive web design article cover
+Playwright-Started-1,Playwright Basics (Part 1): Setting Up Your Environment and First Project,Automated Testing,2025-03-01,Learn from scratch how to install configure and create your first Playwright project.,/blogs/hero-images/playwright1.png,Playwright automated testing article cover
