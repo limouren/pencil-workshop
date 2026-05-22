@@ -1,6 +1,6 @@
 # Services copy
 
-Use these as six service cards on the landing page. If there is extra time, each card can link to a separate detail section.
+Use these as six service cards on the Services page. The homepage can reuse shorter versions as a services overview.
 
 ## 1. Web Development
 

@@ -1,6 +1,6 @@
 # Blog preview copy
 
-Use only these three blog cards for the workshop landing page.
+Use these three blog cards for the Blog page and the homepage preview.
 
 ## Section copy
 

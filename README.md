@@ -24,7 +24,7 @@ Design a website in [Pencil](https://pencil.dev/) and deploy it to GitHub Pages.
 
 ### `website-content/` — Default content pack
 
-A ready-to-use content set for **Chimapp**, a fictional software studio led by two space cats.
+A ready-to-use content set for **Chimapp**, a fictional software studio led by two cats.
 
 | File | Contents |
 |------|----------|
@@ -37,15 +37,15 @@ A ready-to-use content set for **Chimapp**, a fictional software studio led by t
 | `data/blog-posts.csv` | Blog cards in CSV format |
 | `assets/` | Logo, team photos, blog hero images, social icons |
 
-### Suggested page structure
+### Multi-page site structure
 
 1. **Home** (`/`) — Hero, services overview, about, pricing preview, blog cards, contact CTA
 2. **Services** (`/services`) — Detailed service cards
 3. **Pricing** (`/pricing`) — Pricing tiers
-4. **Blog** (`/blog`) — Blog post listing
+4. **Blog** (`/blog`) — Blog post listing with preview cards
 5. **Contact** (`/contact`) — Contact form and social links
 
-We'll focus on a **single-page landing site** first. Multi-page comes after if time permits.
+We'll focus on a **multi-page website** for the workshop, using the pages above.
 
 ## Workshop outline
 

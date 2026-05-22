@@ -2,7 +2,7 @@
 
 ## Project
 
-Design a one-page website for **Chimapp**.
+Design a multi-page website for **Chimapp**.
 
 Chimapp is a software development and testing studio that helps businesses build reliable websites, e-commerce platforms, automated tests, and deployment workflows.
 
@@ -13,16 +13,13 @@ Chimapp is a software development and testing studio that helps businesses build
 - Founders who want a technical partner for a web product
 - Developers and product teams who care about quality and maintainability
 
-## Recommended page sections
+## Recommended site structure
 
-1. **Header** — logo, navigation, contact CTA
-2. **Hero** — main headline, short pitch, primary CTA
-3. **Services** — six service cards
-4. **About** — short studio story and two cat leaders
-5. **Pricing** — four pricing cards
-6. **Latest articles** — three curated blog cards
-7. **Contact CTA** — simple call to action
-8. **Footer** — contact info and social links
+1. **Home** — header, hero, services overview, about, pricing preview, latest articles, contact CTA, footer
+2. **Services** — six service cards with optional detail bullets
+3. **Pricing** — four pricing cards
+4. **Blog** — three curated blog preview cards
+5. **Contact** — contact form, public contact info, social links
 
 ## Core assets to use
 
